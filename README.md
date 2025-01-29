@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SolutionsAsService
-- I have knowledge regarding Workflow Automation, JSON, CSS, JS, YAML (Ansible Playbooks), Node.js, Next.js, Docker, Kubernetes, Redis, SQL, Vercel, COBOL, blockchains, financial software (and more)
+- I have knowledge regarding Workflow Automation, JSON, CSS, HTML, JS, YAML (Ansible Playbooks), Node.js, Next.js, Docker, Kubernetes, Redis, SQL, Vercel, COBOL, blockchains, financial software (and more)
 - 👀 I’m interested in data structures and their applications in preserving and disseminating history, science and knowledge for everyone. 
 - 🌱 I’m currently learning React, hypercore, Rust, Python, Ruby, C/C++ etc.
 - 💜 I’m looking to collaborate on preserving and teaching human history forever in way that can be seen from all perspectives 
