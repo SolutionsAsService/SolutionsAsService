@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SolutionsAsService
-- I have knowledge regarding Workflow Automation, Network Protocols, JSON, CSS, HTML, JS/TS, YAML (Ansible Playbooks), Node.js, Next.js, Docker, Kubernetes, AWS, Redis, SQL, Vercel, COBOL, blockchains, financial software (and more)
+- I have knowledge regarding Workflow Automation, Network Protocols, JSON, CSS, HTML, JS/TS, Arduino/ESP32, YAML (Ansible Playbooks), Node.js, Next.js, Docker, Kubernetes, AWS, Redis, SQL, Vercel, COBOL, blockchains, financial software (and more)
 - 👀 I’m interested in local computing, distrubted networks, data structures and their applications in preserving and disseminating history, science and knowledge for everyone. 
 - 🌱 I’m currently learning React, hypercore, Rust, Python, Ruby (Rails), C/C++, Tailwind, PHP, Angular, Go, Perl, Lua, Bash, ASM etc.
 - 💜 I’m looking to collaborate on preserving and teaching human history forever in way that can be seen from all perspectives 
