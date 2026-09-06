@@ -3,7 +3,7 @@
 - interested in local and distributed computing, networks, and data structures for their application in preserving and disseminating history, science and knowledge for everyone. 
 - currently learning RouterOS Script, iroh, Ruby (Rails), Tailwind, Jinja, PHP, Angular, Go, Perl, Lua, Bash, ASM/WASM etc.
 - 💜 I’m looking to collaborate on preserving and teaching human history forever in way that can be seen from all perspectives 
--  message me here on GitHub if you are interested in the project
+-  message me here on GitHub if you are interested in of the projects. (autheo, shadw, defense mapping)
 
 <!---
 SolutionsAsService/SolutionsAsService is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
